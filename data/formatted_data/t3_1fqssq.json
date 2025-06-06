@@ -1,0 +1,45 @@
+{
+    "name": "t3_1fqssq",
+    "title": "The patent system as a whole is good (including software patents). The only problems with the patent office today is that it grants patents that are later found to be invalid, and that some patents last too long. CMV",
+    "body": "This post will focus on software patents since that is what I am most familiar with.\n\nI think that the patent system should serve two purposes: rewarding effort, and providing incentives for innovation, and that it currently does that. Some of the problems people often bring up in the current system are:\n\nPatents are granted for things that are too easy to create: I think that the expiration date for a patent should be set by the examiner and should be dependent on the investment that went into developing the technology. Drug patents that require billions of dollars of research can continue to have long terms. Software patents that require half a year of research by a few people will have shorter terms. This is not a major overhaul of the system, and supports the goal of providing incentives for innovation by forcing companies to continue to innovate if they want to have exclusive access to technology (and all the financial benefits that gives).\n\nPatents are granted for things that have already been invented: These patents should not be granted. This is not a change to the current system.\n\nPatent trolls are a thing: If the patents being used to 'troll' are legitimate, I think this is not a problem, due to the goal of rewarding effort. I think that a person who is a skilled inventor but unskilled at manufacturing, distribution, marketing, or all the other things necessary to make money from an invention should still be rewarded for his invention, by selling the right to use his invention to other companies. Or, he should be able to outsource the selling part to people who are good at that, while he continues doing what he is good at, which is inventing.\n\nPatents are granted on math: Allowing patents on math helps provide both stated goals of the patents system. If someone discovers or create a new algorithm or formula, they should be rewarded for it, even though it is \"Just\" math.\n\nTo the people who think that all patents should be abolished, or that all patents within a certain industry should be abolished: I think that would result in a return to the days of trade secrets, which I would consider to be a very bad thing, and result in more incentives to protect your secrets than incentives to innovate.\n\nTo change my view you must either show that your proposed change to the patent system will further the goals I’ve provided for the patent system, or you must change my view on what the goals of the patent system should be.",
+    "author": "Dooey",
+    "num_comments": 4,
+    "created_utc": 1370463747.0,
+    "url": "http://www.reddit.com/r/changemyview/comments/1fqssq/the_patent_system_as_a_whole_is_good_including/",
+    "comments": [
+        {
+            "name": "t1_cacvan5",
+            "parent_id": "t3_1fqssq",
+            "body": "Oddly enough I *just* received an email from the White House that directed me to this website: http://www.whitehouse.gov/blog/2013/06/04/taking-patent-trolls-protect-american-innovation\n\nTL,DR; Patent Trolls are a massive issue and they aren't the people who innovated - just the people who bought the patent so they could make money. It's the same thing as domain squatting except the stakes are higher and the repercussions greater.",
+            "author": "ezen",
+            "created_utc": 1370464180.0,
+            "replies": [
+                {
+                    "name": "t1_cacvmf2",
+                    "parent_id": "t1_cacvan5",
+                    "body": "My stance is this: If the bad patents are eliminated, then the bad patent trolls will be eliminated. I do not have a problem with people buying patents for the purpose of making money as long as the patent is legit, after all, they do pay the person they buy it from, and that person is the innovator.",
+                    "author": "Dooey",
+                    "created_utc": 1370465009.0,
+                    "replies": []
+                }
+            ]
+        },
+        {
+            "name": "t1_caescav",
+            "parent_id": "t3_1fqssq",
+            "body": "&gt;Patents are granted for things that have already been invented: These\n&gt;patents should not be granted. This is not a change to the current \n&gt;system.\n\nThe problem is that it is impossible to determine if something is already invented. When 2 people invent the same thing independently they will probably give it a different name, describe it with different words and label every component of it differently. Above that the invention could be used in a completely different context. \n\nI claim that bogus-patents exist not because patent offices do a bad job but because it is impossible to determine which patents are valid it is a problem which is in the core of the patent system. By consequence the problem of bogus-patents is at the core of the patent system.",
+            "author": "meldyr",
+            "created_utc": 1370712178.0,
+            "replies": [
+                {
+                    "name": "t1_caf1ab9",
+                    "parent_id": "t1_caescav",
+                    "body": "But then any patent system will fail. I've already spoken about why I don't think the patent system should be removed entirely, so  even if it is impossible to validate a patent, I think we should still have a system. Maybe there can be some tweaks in areas such as how existing patents are invalidated, but that would not be a major change.",
+                    "author": "Dooey",
+                    "created_utc": 1370744834.0,
+                    "replies": []
+                }
+            ]
+        }
+    ]
+}

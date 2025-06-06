@@ -1,0 +1,52 @@
+{
+    "name": "t3_357ttr",
+    "title": "[Mod Post] 1 week trial for setting default comment sorting to Q&amp;A",
+    "body": "A [recent reddit change](https://www.reddit.com/r/changelog/comments/342y8k/reddit_change_new_comment_sorting_options/) gives us the ability to set default sorting options for individual threads or for the entire subreddit.  \n\nThere is one sorting method, 'Q&amp;'A, which sorts the thread according to a combination of votes and who OP has replied to. \n\nThis will allow you to easily find comments that OP has replied to. [Here is an example thread where the sort has been done via Q&amp;A.](https://www.reddit.com/r/Android/comments/3432db/hi_im_ron_amadeo_reviews_editor_for_ars_technica/)  \n\nWe would like to try this out for 1 week to see how it goes. If the response is positive then we'll make it permanent, if not then we'll go back to sorting by the default 'best.'  \n\n---  \n\nBy the way, [check out our modpost archive](https://www.reddit.com/r/changemyview/wiki/modpostarchive) to see the evolution of the sub!",
+    "author": "IAmAN00bie",
+    "num_comments": 5,
+    "created_utc": 1431031655.0,
+    "url": "http://www.reddit.com/r/changemyview/comments/357ttr/mod_post_1_week_trial_for_setting_default_comment/",
+    "comments": [
+        {
+            "name": "t1_cr1xafd",
+            "parent_id": "t3_357ttr",
+            "body": "Count my vote in the positive column. I tried it via a link in the comments a few days ago, and it made the subreddit actually readable!",
+            "author": "earldbjr",
+            "created_utc": 1431038316.0,
+            "replies": []
+        },
+        {
+            "name": "t1_cr1zi88",
+            "parent_id": "t3_357ttr",
+            "body": "That sounds like a good idea; it's nice to see how the OP is responding to other comments before posting to see what arguments aren't working or if a version of your argument has already worked. It can also save you from writing a 1000 word essay for someone who is too stubborn to be influenced anyway.",
+            "author": "Dack105",
+            "created_utc": 1431042295.0,
+            "replies": []
+        },
+        {
+            "name": "t1_cr26j5e",
+            "parent_id": "t3_357ttr",
+            "body": "Sounds like cool new idea.  I'm in favor.\n\nJust a heads up though (paging /u/qtx), the new CSS isn't properly rendering the \"sorted by\" dropdown for comments.   You can switch out of the Q&amp;A sort order, but you can't switch back.  It appears that it is behind some of the other components.",
+            "author": "cacheflow",
+            "created_utc": 1431055559.0,
+            "replies": [
+                {
+                    "name": "t1_cr2dn0g",
+                    "parent_id": "t1_cr26j5e",
+                    "body": "",
+                    "author": "",
+                    "created_utc": "",
+                    "replies": []
+                }
+            ]
+        },
+        {
+            "name": "t1_cr2va0w",
+            "parent_id": "t3_357ttr",
+            "body": "I actually had no idea this was happening until after I read a bunch of threads.  Guess that is a good sign since it means the new method of sorting was not so crazy that it made me wonder how things were being sorted.  I notice the change now that I know about it, but did not notice a difference before it was brought up.",
+            "author": "paneubert",
+            "created_utc": 1431114357.0,
+            "replies": []
+        }
+    ]
+}

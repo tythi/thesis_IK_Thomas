@@ -1,0 +1,45 @@
+{
+    "name": "t3_20u6dc",
+    "title": "CMV EMTALA, requiring hospitals to provide care regardless of ability to pay, should be repealed",
+    "body": "The [Emergency Medical Treatment and Active Labor Act](http://en.wikipedia.org/wiki/Emergency_Medical_Treatment_and_Active_Labor_Act) is a law that requires hospitals providing emergency care to provide that care to everyone regardless of ability to pay.\n\nThis law increases the use of these services resulting in the closure of Emergency Departments (ED), longer wait times, and increasing costs shifted onto paying customers, http://virtualmentor.ama-assn.org/2010/06/hlaw1-1006.html\n\nThis law is like allowing the homeless to break into and occupy vacant apartments or hungry people to eat at restaurants and skip on paying the bill, http://www.kevinmd.com/blog/2011/03/challenge-constitutionality-emtala.html\n\nIf we want everyone to have access to emergency care Medicaid could be expanded to cover more people without increasing total cost. This would be done by covering only the most cost effective treatments. This was attempted in Oregon, http://virtualmentor.ama-assn.org/2011/04/pfor1-1104.html and is used by the UK NHS, http://www.nice.org.uk/newsroom/features/measuringeffectivenessandcosteffectivenesstheqaly.jsp\n\n_____\n\nHello, users of CMV! This is a footnote from your moderators. We'd just like to remind you of a couple of things. Firstly, please remember to **[read through our rules](http://www.reddit.com/r/changemyview/wiki/rules)**. If you see a comment that has broken one, then please report it rather than just downvoting it. Speaking of which, **[downvotes don't change views](http://www.reddit.com/r/changemyview/wiki/guidelines#wiki_upvoting.2Fdownvoting)!** If you are thinking about submitting a CMV yourself, please have a look through our **[popular topics wiki](http://www.reddit.com/r/changemyview/wiki/populartopics)**. Any questions or concerns? Feel free to **[message us](http://www.reddit.com/message/compose?to=/r/changemyview)**. Happy CMVing!",
+    "author": "krausyaoj",
+    "num_comments": 4,
+    "created_utc": 1395257778.0,
+    "url": "http://www.reddit.com/r/changemyview/comments/20u6dc/cmv_emtala_requiring_hospitals_to_provide_care/",
+    "comments": [
+        {
+            "name": "t1_cg7bbn1",
+            "parent_id": "t3_20u6dc",
+            "body": "&gt; This law is like allowing the homeless to break into and occupy vacant apartments \n\n[Adverse Possession](http://en.wikipedia.org/wiki/Adverse_possession) allows for this kind of action.\n\n&gt; hungry people to eat at restaurants\n\nYou mean like a [soup kitchen](http://en.wikipedia.org/wiki/Soup_kitchen)? The majority of hospitals were started or are currently run by church foundations.\n\nHospitals are perfectly able to opt out of the EMTALA if they want to. They would just have to stop accepting medicare/medicaid.\n\nClearly, the desire for them to accept those forms of payment outweigh the cost of the unfunded and uncompensated.",
+            "author": "PixelOrange",
+            "created_utc": 1395316915.0,
+            "replies": [
+                {
+                    "name": "t1_cg9ansq",
+                    "parent_id": "t1_cg7bbn1",
+                    "body": "The law allows for eviction for trespassing.\n\nThose who run soup kitchens do so voluntarily and not under state duress.\n\nMore ERs are deciding the burden is too much and opting out, http://www.reddit.com/r/emergencymedicine/comments/1w1dvc/how_do_freestanding_ers_skirt_emtala_requirements/ but then the states are imposing similar mandates even if they don't accept government payment.",
+                    "author": "krausyaoj",
+                    "created_utc": 1395523348.0,
+                    "replies": []
+                }
+            ]
+        },
+        {
+            "name": "t1_cg7ybnn",
+            "parent_id": "t3_20u6dc",
+            "body": "For certain kinds of emergency treatment, time is of the essence. In those cases, someone who *can pay* may die because he can't prove that he can pay fast enough.\n\nThat's not even to mention the cases of people who show up at a hospital while unconscious, etc; there's often no way to find out if those people can pay until much, much later ... but whatever their physical ailment is needs to be treated *now*, in case it's one of those things that is time-critical.\n\nI have really good insurance. I would rather not die because the E.R. wouldn't treat me because I showed up with chest pains and forgot to bring my wallet (and therefore didn't have my insurance card).",
+            "author": "learhpa",
+            "created_utc": 1395368638.0,
+            "replies": [
+                {
+                    "name": "t1_cg7yt38",
+                    "parent_id": "t1_cg7ybnn",
+                    "body": "Most patients presenting at the ED are not for life threatening conditions. Only 13.3% result in a hospital admission, http://www.cdc.gov/nchs/fastats/ervisits.htm\n\nAs hospitals convert to electronic medical records you will not need identification to confirm your insurance status but instead use biometrics, http://www.biometricidforum.org/hospitals-use-biometrics-to-speed-admission-process/\n\nUsing biometrics to bring up your medical records will provide the information needed to treat you even if you are unconscious.\n\nFrom http://www.elcaminohospital.org/Patient_Services/Registration_Admissions/PalmSecure_Biometric_Authentication_System\n\n&gt; After your health information is securely input into our system, biometric authentication dramatically speeds up the registration process the next time you come in. This is especially important in the ER, where patients may be unconscious or confused upon admission. Once you’re registered, this system helps us expedite your treatment and ensure that your information won’t be confused with someone else’s. For example, if John R. Doe is a diabetic and J. Ronald Doe is not, a simple palm scan instantly calls up the appropriate medical record. Biometric identification also helps us reduce organizational expenses and administrative tasks, so we can allocate more time and money to what we do best: care for our patients.. \n\nFrom http://www.usatoday.com/story/news/nation/2012/11/25/palm-scanners-technology-schools/1726175/\n\n&gt; A palm scan's precision record-keeping also avoids possible confusion if patients have the same name. For instance, a hospital system in the Houston area with a database of 3.5 million patients has 2,488 women in it named Maria Garcia – and 231 of them have the same date of birth, Bertrams says.",
+                    "author": "krausyaoj",
+                    "created_utc": 1395369729.0,
+                    "replies": []
+                }
+            ]
+        }
+    ]
+}

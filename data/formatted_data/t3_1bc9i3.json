@@ -1,0 +1,157 @@
+{
+    "name": "t3_1bc9i3",
+    "title": "America Has Too Many Laws Regarding Liability and This Helps Create Stupidity.",
+    "body": "Having grown up in the States, and living abroad in Asia for a couple years, I have noticed that America has far too many liability laws that remove responsibility from the consumer, and instead hold the provider responsible. \n\nI appreciate the fact that liability has it's advantages, and when something goes wrong that shouldn't have (i.e. your parachute doesn't deploy, or the toy you bought is broken), you are covered and reimbursed (if possible).\n\nOn the other hand, it has a reached a point where people don't assume liability for their own decisions.  If you choose to engage in a sport such as Scuba Diving, Parachuting, or even Mountain Hiking/Climbing, I believe you make a decision as a human being to engage in this activity.  All the liability laws are OVER-protective and don't force people to think about or take responsibility for their own actions.  It creates a mindset, \"Well, if it isn't against the law, and they are liable, what could go wrong?\".  I think this is detrimental to society, and creating a society that aids the spread of stupid decision making.  \nChange my view.",
+    "author": "CyngulateCortex",
+    "num_comments": 15,
+    "created_utc": 1364700481.0,
+    "url": "http://www.reddit.com/r/changemyview/comments/1bc9i3/america_has_too_many_laws_regarding_liability_and/",
+    "comments": [
+        {
+            "name": "t1_c95jzfq",
+            "parent_id": "t3_1bc9i3",
+            "body": "[deleted]",
+            "author": "[deleted]",
+            "created_utc": 1364701948.0,
+            "replies": [
+                {
+                    "name": "t1_c95k50u",
+                    "parent_id": "t1_c95jzfq",
+                    "body": "Give me time god damn it!\n \nE: this was posted while i was drafting my wall of text.",
+                    "author": "Logical_Fallacy_Here",
+                    "created_utc": 1364702512.0,
+                    "replies": []
+                }
+            ]
+        },
+        {
+            "name": "t1_c95k75v",
+            "parent_id": "t3_1bc9i3",
+            "body": "I somewhat agree but I'm going to take a shot anyways. Perhaps I can get you to share in my ambivalence.\n\nFirst some background stuff: There are a lot of misconceptions surrounding tort law (the law of civil liability) and I want to clear up some of the more common ones. (This would be a fruitless endeavor if we weren't starting on the same page.) Am I safe in assuming that:\n\n1. You are not a lawyer, and\n2. Your idea of what liability of law is comes from the waivers we have to sign when we go Scuba diving, parachuting, and mountain climbing?\n\nMany of the provisions under those disclaimers are for CYA purposes only. Chances are, if someone tried to sue for most of the things covered under such a waiver they wouldn't win anyways, the cost of adding in such a provision is so cheap (the cost of a few extra peices of paper and ink) that companies feel its worthwhile to do so, in case they get an irrational jury or something. \n\nThe effect of this is that the boundaries of what might actually create liability are actually far, far narrower than what you might think just from reading the waivers. \n\n\nThat being said: I would challenge the idea that possibility of civil remedy promotes poor decision-making on two ground.\n\n********\n\nFirst -- I would challenge the idea that possibility of civil remedy promotes poor decision-making with the fact that in all jurisdictions I know of, the defendant in a lawsuit for negligence has the defense of **comparative negligence**. \n\nThat is to say, if the defendant can show that the plaintiff was negligent and that contributed to his injury, the defendant may be relieved of some or all of his liability, depending on the degree of the plaintiff's negligence compared to that of the defendant.\n\nMany states have the rule where if the plaintiff was even one iota negligent, the defendant is completely relieved of ANY liability regardless of how negligent he was. This is called **contributory negligence** and it's a little more controversial. (For the reasons you mention, I am ambivalent as to which is the better rule.)\n\nPart two incoming (because apparently people are getting impatient). ",
+            "author": "Logical_Fallacy_Here",
+            "created_utc": 1364702732.0,
+            "replies": [
+                {
+                    "name": "t1_c95l1gp",
+                    "parent_id": "t1_c95k75v",
+                    "body": "Secondly -- I would argue that in some circumstances, letting the poor decision maker collect would not be a bad thing. What tort law seeks to place the incentives to reduce harm on those who have the best means of doing so. This might lead to individual cases that feel unfair but would make us better off on the whole. \n\nA. Part of your argument is that we would be better off if we created incentives for people to take more care right? Well consider situations where people are unable to respond to incentives. \n\nTort law is most generous to the plaintiff in instances of INFORMATIONAL ASYMMETRY --- that is, where the defendant knows far more about the potential of harm than the plaintiff would. \n\nLet's use your scuba diving example: \n\nDid you know that surfacing too quickly can give you an [embolism?](http://en.wikipedia.org/wiki/Decompression_sickness)\n\nAssuming that the scuba instructor knows this and also how fast one would have to surface to be at risk. Now also assume a rational client who has done his research. He knows about the bends but having never scuba dived before he doesn't know what the warning signs actually feel like, how to distinguish them from ordinary muscle fatigue, etc. \n\nIn such a circumstance, wouldn't creating liability do far more to incentivize the defendant scuba instructor to greater care in instructing his client and do comparatively less to incentivize poor decision making on the part of the client?\n\n (Moreover isn't it a little weird to think that the client would ignore/fail to do such research and put his own life in danger just for the mere *possibility* of collecting money at some future date?)\n\n\nB. Also, consider situations where the defendant is the least cost-avoider.\n\nA least cost avoider is someone who can avoid the harm with the least cost: If A could prevent B's injury with X amount of effort and B could prevent it with Y amount of effort and X&lt;Y then A is the least cost avoider. \n\nIn such cases, it would be economically more efficent to make A expend the effort to prevent the harm than would making B prevent the harm. \n\nImagine a company that services a perilous hiking trail. Safety nets on the cliffs would cost 100$ and service all of your clients. Each client however, would expend an extraordinary amount of effort on maps and compasses, learning to properly read the maps. And there are certain clients for whom will inevitably fall off a cliff no matter how much care they take.  \n\nSure there is a certain individualistic appeal to say, that's the risk they choose to take. But a 100$ that would have saved multiple lives? That's a few cents for each customer. But is there no point where the defendant could have prevented the harm so cheaply (and the plaintiff seems so impotent to do the same) that you would not say that the it's preferable from an incentives standpoint that the defendant should bear the cost?\n",
+                    "author": "Logical_Fallacy_Here",
+                    "created_utc": 1364705956.0,
+                    "replies": [
+                        {
+                            "name": "t1_c95mik4",
+                            "parent_id": "t1_c95l1gp",
+                            "body": "[deleted]",
+                            "author": "[deleted]",
+                            "created_utc": 1364712779.0,
+                            "replies": [
+                                {
+                                    "name": "t1_c95mz3n",
+                                    "parent_id": "t1_c95mik4",
+                                    "body": "Jesus fuck I was a hundred words into a response and i accidently refreshed and lost it and now I need to go to sleep. \n\nThe gist of it was that your ending question illustrates why I opened my first post expressing my own ambivalence, and that there's a theoretical legal standard for where the scuba instructor's responsibility ends and where the cleint's begins but its fuzzy and hard to apply.",
+                                    "author": "Logical_Fallacy_Here",
+                                    "created_utc": 1364715536.0,
+                                    "replies": [
+                                        {
+                                            "name": "t1_c95o458",
+                                            "parent_id": "t1_c95mz3n",
+                                            "body": "[deleted]",
+                                            "author": "[deleted]",
+                                            "created_utc": 1364725662.0,
+                                            "replies": [
+                                                {
+                                                    "name": "t1_c95tixb",
+                                                    "parent_id": "t1_c95o458",
+                                                    "body": "So basically, whether incentives from assigning liability actually in fact influence behavior -- because among other reasons people have imperfect perceptions of how responsibility is distributed? \n\nSorry man, I don't have a good answer. Your doubts are the doubts that I currently have, and the doubts that law professors and judges have been wrestling with for decades now. ",
+                                                    "author": "Logical_Fallacy_Here",
+                                                    "created_utc": 1364753349.0,
+                                                    "replies": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "t1_c95nfyf",
+                                    "parent_id": "t1_c95mik4",
+                                    "body": "Confirmed - 1 delta awarded to /u/Logical_Fallacy_Here",
+                                    "author": "DeltaBot",
+                                    "created_utc": 1364719034.0,
+                                    "replies": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "t1_c9621vz",
+                            "parent_id": "t1_c95l1gp",
+                            "body": "Very interesting thoughts, and I have a better understanding of tort law, but GiftHorse did a pretty good job explaining my point of view while I was sleeping.  The idea of having signed a waiver provides a sense of security to most people who don't know tort law (which IS most people) that if anything goes wrong they have someone to point a finger at.  The McDonald's case for that specific woman was, I believe, not so frivolous, and I knew about the facts you bring up in a post below, however, my problem is with the consequences of that lawsuit.  Now every store in California at least that sells coffee has a little plaque at the pick-up counter, \"CAUTION: Coffee may be hot\". \n\nYour other argument about incentivizing the scuba instructor is a great theoretical approach to responsibility, and in most cases it does work.  On the other hand, we must consider that people make mistakes.  On a scuba training dive, the instructor failed to ask my friends often enough to check their oxygen levels, and one of the trainees ran out of oxygen 10m underwater.  As a new scuba diver, I'm not saying it was my friends fault (he survived with no complications), but I do believe if things had gone the other way, he was the one who decided to attempt scuba diving, it was just unfortunate his instructor was an idiot. ",
+                            "author": "CyngulateCortex",
+                            "created_utc": 1364781821.0,
+                            "replies": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "t1_c95kt6o",
+            "parent_id": "t3_1bc9i3",
+            "body": "Eh, the problem here is that media prevalence points out the worst examples, while omitting the thousands of good examples. IE the hot coffee case (and even that has more to it than it seems) vs dangerous activity laws that force companies to make them safer. ",
+            "author": "[deleted]",
+            "created_utc": 1364705051.0,
+            "replies": [
+                {
+                    "name": "t1_c95l4my",
+                    "parent_id": "t1_c95kt6o",
+                    "body": "Quick note on the hot coffee case. \n\n* The coffee was hot enough to fuse the plaintiff's labia closed. \n\n* The coffee was so hot because McD's found out it could save money by serving to coffee too hot to be drinkable (so customers would take longer drinking it, and use less of the free refills).\n\n* The plaintiff originally asked only for enough money to cover her medical expenses, but McD kept dicking her around. Part of the reason why the jury awarded the amount it did because it thought McD treated the woman unreasonably after she was injured. \n\nhttp://www.social.mtu.edu/faculty/speters/WrightsMcDonaldsfacts.htm",
+                    "author": "Logical_Fallacy_Here",
+                    "created_utc": 1364706314.0,
+                    "replies": [
+                        {
+                            "name": "t1_c95mcms",
+                            "parent_id": "t1_c95l4my",
+                            "body": "Thank you!  I did a case study on this case for my intro to justice class, the students laughed when I asserted that while the amount may be excessive,  McDonalds was undeniably at fault. The instructor said it was a perfect example of whats wrong with the tort system and gave me a D. I was mad. ",
+                            "author": "AKBigDaddy",
+                            "created_utc": 1364711855.0,
+                            "replies": [
+                                {
+                                    "name": "t1_c95mdhe",
+                                    "parent_id": "t1_c95mcms",
+                                    "body": "I find that the words \"fused labia\" usually end that conversation. Though, to be fair, the words \"fused labia\" ends most conversations. ",
+                                    "author": "Logical_Fallacy_Here",
+                                    "created_utc": 1364711978.0,
+                                    "replies": []
+                                },
+                                {
+                                    "name": "t1_c95owsc",
+                                    "parent_id": "t1_c95mcms",
+                                    "body": "Sorry this is so late a response, but that makes me sick. Your instructor was obviously an idiot. As a lawyer, the \"Hot Coffee\" case is THE example I use to illustrate a point when people complain to me about \"frivolous lawsuits\" or are adamant about tort reform.",
+                                    "author": "northlamar",
+                                    "created_utc": 1364733423.0,
+                                    "replies": [
+                                        {
+                                            "name": "t1_c95rsdi",
+                                            "parent_id": "t1_c95owsc",
+                                            "body": "Yeah she used it as the example of a perfect example of a frivolous lawsuit. Rest of the class wrote their paper reinforcing that, I was the only one dissenting. ",
+                                            "author": "AKBigDaddy",
+                                            "created_utc": 1364747376.0,
+                                            "replies": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "t1_c95kxbv",
+            "parent_id": "t3_1bc9i3",
+            "body": "The only way in which I could change your mind would be to argue for a cumulative cap on liabilities. \n\nThat is, the more mistakes you make, the higher the cap if you are taken to court (relative to some base line that is the norm, or acceptable). \n\nI think this satisfies the incentive to reduce malpractice (or keep it in check), while not causing ridiculous increases in cost (for consumers and practitioners' insurance)\n\nI've never seen anyone argue against tort reform convincingly (seen some pretty ridiculous attempts though). ",
+            "author": "[deleted]",
+            "created_utc": 1364705500.0,
+            "replies": []
+        }
+    ]
+}

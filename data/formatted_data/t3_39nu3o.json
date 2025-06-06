@@ -1,0 +1,90 @@
+{
+    "name": "t3_39nu3o",
+    "title": "CMV: Google should build its own podcast app to compete with Apple's \"Podcasts\" app.",
+    "body": "Podcasts have become mainstream now. After the massive success of [Serial](http://serialpodcast.org/) everyone (and their grandmothers) seems to be starting up their own podcast. I've been listening to podcasts for 5+ years and I've never witnessed anything like this. I used to listen to just a handful, and now I get to listen to a huge variety. :)\n\nSo why isn't Google doing anything to capitalize on this? I'll list some reasons why I think it's a no-brainer: \n\n* The sort of podcasts that a person listens to is a great indicator of their interests. Gamers often listen to gaming podcasts, for example. If Google set up their own podcast app they'd get a lot of great data to personalize ads based on the listening habits of users.\n\n* They've been successful with their music streaming service which involves huge costs like licensing, legal fees, etc. A podcast app is basically a very specific RSS fetcher. It's probably a piece of cake for the programmers at Google. And podcasters put their stuff out for free, so there are no costs involved there.\n\n* Android is already in millions of people's pockets. They just need to advertise the app and if it's good then millions will install it. It could be an optional install like Google Earth, it doesn't even need to become a default app.\n\n* Everyone who uses Android has a Google account, which could be used to sync the podcast app to the cloud. Other apps (Overcast on iOS, Pocket Casts on Android) already do this. Google could push its cloud service Google Drive through the podcast app as well as a way to store downloaded podcasts.\n\n* A lot of podcasters end with something like, \"Subscribe on iTunes.\" So Apple gets some extra marketing by simply having a good (not great) service that lets users listen to podcasts. The podcasters are promoting their show, but Apple is also getting some publicity. \n\nI started listening to podcasts when I had an iPod, so I have nothing against Apple at all. I'm *very* glad that they made their app available, and they've definitely played a huge role in the growth of podcasts. But Android didn't even exist when I started listening to podcasts so there weren't many alternatives.\n\nPlease help me understand why Google ~~hasn't~~/shouldn't made a nice app for podcast lovers.\n\nu/JamesDK pointed out that Google did develop a podcast app, which it stopped developing a few years ago. I now believe that they should re-evaluate their decision and *should* develop (or re-release) a nice podcast app. \n\n_____\n\n&gt; *Hello, users of CMV! This is a footnote from your moderators. We'd just like to remind you of a couple of things. Firstly, please remember to* ***[read through our rules](http://www.reddit.com/r/changemyview/wiki/rules)***. *If you see a comment that has broken one, it is more effective to report it than downvote it. Speaking of which,* ***[downvotes don't change views](http://www.reddit.com/r/changemyview/wiki/guidelines#wiki_upvoting.2Fdownvoting)****! If you are thinking about submitting a CMV yourself, please have a look through our* ***[popular topics wiki](http://www.reddit.com/r/changemyview/wiki/populartopics)*** *first. Any questions or concerns? Feel free to* ***[message us](http://www.reddit.com/message/compose?to=/r/changemyview)***. *Happy CMVing!*",
+    "author": "RustyRook",
+    "num_comments": 9,
+    "created_utc": 1434161967.0,
+    "url": "http://www.reddit.com/r/changemyview/comments/39nu3o/cmv_google_should_build_its_own_podcast_app_to/",
+    "comments": [
+        {
+            "name": "t1_cs4yrhu",
+            "parent_id": "t3_39nu3o",
+            "body": "Google had a podcasting app for a while: it was called [Listen](http://www.androidcentral.com/google-listen-officially-dead) and I loved it. It was my first foray into listening to podcasts, and I found most of my favorites using Google's app. But, from Google's own statement about why they discontinued Listen:\n\n&gt;  ... with Google Play, people now have access to a wider variety of podcast apps, so we’ve discontinued Listen. \n\nGoogle basically acknowledged that they weren't doing doing any better than independent developers who were creating podcasting apps and making them available on the Google Play store. Their decision seemed to be based on the fact that they'd rather allow those developers to create better apps, sell them, and allow Google to focus on the things it does best (or new, innovate things that no one else is doing). \n\nOn the Android platform, we have Pocketcasts, Beyondpod, Doggcatcher, Stitcher, Podkicker, etc. - all of which are better than Google Listen ever was. If Google couldn't do podcasting better than independent developers, they made the right decision to get out of the way and focus on other things.\n\n",
+            "author": "JamesDK",
+            "created_utc": 1434167100.0,
+            "replies": [
+                {
+                    "name": "t1_cs4z5zw",
+                    "parent_id": "t1_cs4yrhu",
+                    "body": "&gt; Google had a podcasting app for a while: it was called Listen\n\nI didn't even know about this. I moved from my iPod's app straight to Podcast Addict on my Android phone. Now I use it along with Pocket Casts to manage my podcast addiction. Your comment definitely made me re-evaluate my position, thought it hasn't changed my view. I still believe Google should, for its own good, develop a podcast app. But I'm coming at it from a different angle now, which is that Google needs to re-evaluate its decision. You deserve a ∆ for making me shift my position so significantly.\n",
+                    "author": "RustyRook",
+                    "created_utc": 1434168088.0,
+                    "replies": [
+                        {
+                            "name": "t1_cs4zd7m",
+                            "parent_id": "t1_cs4z5zw",
+                            "body": "Thanks! I use Pocket Casts too. I'm in the car 10-15 hours/week, so I love my podcasts. \n\nOut of curiosity, what features would you like to see in existing podcasting apps that aren't currently present? I ask because you still seem to think that Google should re-enter the space: what do you think they could do better?",
+                            "author": "JamesDK",
+                            "created_utc": 1434168589.0,
+                            "replies": [
+                                {
+                                    "name": "t1_cs50jbv",
+                                    "parent_id": "t1_cs4zd7m",
+                                    "body": "The single biggest reason I think Google could do a good job is because they have the resources. Most indie developers don't have the resources to make a *really* great app. I assume Google would make the app available for free. That doesn't make a difference to me, since I mostly use Pocket Casts. Google could use by YouTube data, browsing history, etc to come up with some seriously good recommendations. Maybe a feature that recommended individual episodes? That would be great.\n\nI use Pocket Casts primarily because it has a dedicated web app, thought it could definitely do with some upgrades. The phone/tablet app combined with the web app work very well together - the syncing is great. On the other hand, Podcast Addict is much more powerful than Pocket Casts because of its much deeper customization options, though it isn't as pretty. If it had a companion web app I would have stuck with it and never moved to Pocket Casts.\n\nSo the recommendations, price (probably free), and resources for a web app are the three reasons why I think Google could do a good job if they tried.",
+                                    "author": "RustyRook",
+                                    "created_utc": 1434171575.0,
+                                    "replies": [
+                                        {
+                                            "name": "t1_cs50yj1",
+                                            "parent_id": "t1_cs50jbv",
+                                            "body": "They also had a project called Google Reader which, once upon a time ago, was the premier based RSS reader you could find on the web, bar none. Seemed like an odd thing to can, since it isn't around anymore and Feedly has taken up the slack, but there were two big reasons that they decided to sunset it. One, Google+ was starting to take root at this point and they didn't want to tie themselves to RSS tech when social was the big new thing. And B, no one really wanted to work on it, and no one wanted to force employees to work on it when + was still in development and was planning on eating Reader and Listen's lunches, as both used the same platforms. So the reason that Google doesn't have a podcast reader is that no one wants to work on it, and those who do want to do social are shuffled into Google+ to try and keep it alive. ",
+                                            "author": "moocow1452",
+                                            "created_utc": 1434172742.0,
+                                            "replies": [
+                                                {
+                                                    "name": "t1_cs54q6i",
+                                                    "parent_id": "t1_cs50yj1",
+                                                    "body": "Google has a weird relationship with RSS, that's for sure. They recently removed the ability to generate RSS feeds for YouTube videos. They tried to do something with Google+ and I think it failed.\n\nRSS is great, I can't understand why they can't support it and have G+ at the same time.\n\nI like your username.",
+                                                    "author": "RustyRook",
+                                                    "created_utc": 1434187167.0,
+                                                    "replies": [
+                                                        {
+                                                            "name": "t1_cs55zqq",
+                                                            "parent_id": "t1_cs54q6i",
+                                                            "body": "Ads and metrics don't work when you can download the page contents. Any your name is pretty rad too.",
+                                                            "author": "moocow1452",
+                                                            "created_utc": 1434193340.0,
+                                                            "replies": [
+                                                                {
+                                                                    "name": "t1_cs5kh4d",
+                                                                    "parent_id": "t1_cs55zqq",
+                                                                    "body": "&gt; Ads and metrics don't work when you can download the page contents\n\nSo what I imagine is a partnership b/w podcast networks, especially the large ones, and Google and its affiliates. The podcasters get anonymized data about their users that could help them get better sponsors.",
+                                                                    "author": "RustyRook",
+                                                                    "created_utc": 1434229137.0,
+                                                                    "replies": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "t1_ctamrx1",
+                            "parent_id": "t1_cs4z5zw",
+                            "body": "Confirmed: 1 delta awarded to /u/JamesDK. ^[[History](/r/changemyview/wiki/user/JamesDK)]\n\n^[[Wiki](http://www.reddit.com/r/changemyview/wiki/deltabot)][[Code](https://github.com/alexames/DeltaBot)][/r/DeltaBot]",
+                            "author": "DeltaBot",
+                            "created_utc": 1437460138.0,
+                            "replies": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

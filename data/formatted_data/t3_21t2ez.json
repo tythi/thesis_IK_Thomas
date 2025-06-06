@@ -1,0 +1,45 @@
+{
+    "name": "t3_21t2ez",
+    "title": "CMV: I believe that the proposed \"Arizona Fourth Amendment Protection Act\" and other similar state legislation are nothing more political stunts, and will not stop the NSA's unconstitutional surveillance.",
+    "body": "For background:  \n[Wikipedia page](https://en.wikipedia.org/wiki/Arizona_Fourth_Amendment_Protection_Act)    \n[offnow.org article](http://offnow.org/2013/12/09/arizona-state-senator-introducing-fourth-amendment-protection-act/)\n\nFor the sake of argument, assume the NSA's surveillance unconstitutional (if you have a really good point to make that disputes this go ahead, but I don't want this to be the primary focus of the discussion).\n\nThe major reason this won't work is because the parts of this law the NSA can ignore it will. The restrictions that it does impose (barring utilities and disallowing recruiting) will be ineffectual because the NSA is large enough to work around these, operating and recruiting outside the state while still conducting surveillance within it.  \n\nOn the not allowing of information gathered without a warrant in court, the NSA does not use its information to convict. The NSA will continue surveillance in order to identify criminals, then simply scheme to gather admissible evidence when needed. \n\nEDIT: Also, this bill will do nothing to stop the NSA from demanding data from companies such as Facebook.  \nEDIT 2: I should clarify that I also think this legislation is unfixable and that all state legislation like this doomed to fail. Any effort to stop the NSA must be made at the federal level if they are to succeed. ",
+    "author": "nietzsche_smietzsche",
+    "num_comments": 4,
+    "created_utc": 1396243610.0,
+    "url": "http://www.reddit.com/r/changemyview/comments/21t2ez/cmv_i_believe_that_the_proposed_arizona_fourth/",
+    "comments": [
+        {
+            "name": "t1_cgg93sy",
+            "parent_id": "t3_21t2ez",
+            "body": "&gt;The NSA will continue surveillance in order to identify criminals, then simply scheme to gather admissible evidence when needed.\n\nTechnically they are not allowed to illegally gather information, and use that information to gain more information to use in court.\n\nExample, let's say a cop broke into someone's house, while inside the house they saw clear evidence that the home owner is dealing meth.  So clearly this information was illegally obtained.  So instead of going for an arrest, the cop starts following the home owner around until they witness enough cause that they can get a warrant to search the home.\n\nIf it goes to court, and the defence can show that all evidence was gathered after the break in, all of that evidence would be thrown out.\n\nNow this can be hard to prove, but a good attorney will question how the cop came to the decision to put the client under surveillance in the first place.",
+            "author": "TheShadowCat",
+            "created_utc": 1396244805.0,
+            "replies": [
+                {
+                    "name": "t1_cgg9lwi",
+                    "parent_id": "t1_cgg93sy",
+                    "body": "&amp;#8710;\n\nI can see how this could inconvenience the NSA and make their surveillance practices less fruitful for them. \n\nBut while this does build a stronger case for the law, I still think the NSA is powerful enough to that it will be able to continue operations. (After all, it's already said that the NSA programs Snowden whistle-blowed are already pretty ineffective by themeselves, not stopping much terrorism, and yet the NSA continues them).",
+                    "author": "nietzsche_smietzsche",
+                    "created_utc": 1396246722.0,
+                    "replies": [
+                        {
+                            "name": "t1_cgg9mfy",
+                            "parent_id": "t1_cgg9lwi",
+                            "body": "Confirmed: 1 delta awarded to /u/TheShadowCat. ^[[History](/r/changemyview/wiki/user/TheShadowCat)]\n\n^[[Wiki](http://www.reddit.com/r/changemyview/wiki/deltabot)][[Code](https://github.com/alexames/DeltaBot)][[Subreddit](http://www.reddit.com/r/DeltaBot/)]",
+                            "author": "DeltaBot",
+                            "created_utc": 1396246785.0,
+                            "replies": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "t1_cggd8lf",
+            "parent_id": "t3_21t2ez",
+            "body": "Sure. Of course it's a political stunt that will have no immediate effect.\n\nBut if enough states do this, it creates pressure on their representatives in the federal legislature to do the same thing. Successful passage at the state level helps create the political conditions for successful passage at the federal level.\n\nAnd that's where it gets interesting.",
+            "author": "learhpa",
+            "created_utc": 1396267450.0,
+            "replies": []
+        }
+    ]
+}
